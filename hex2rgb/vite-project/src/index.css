@@ -1,0 +1,19 @@
+.container {
+  text-align: center;
+  margin-top: 23%;
+}
+
+.input-box {
+  padding: 10px;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.error-message {
+  color: red;
+}
+
+.rgb-output {
+  font-size: 16px;
+  margin-top: 10px;
+}
